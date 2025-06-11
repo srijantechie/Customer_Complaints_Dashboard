@@ -5,6 +5,7 @@
 🧾 Insightful Dashboard to Monitor and Analyze Customer Complaints Across Channels and Products
 
 2. Short Description
+
 An interactive, data-driven dashboard designed to track customer complaints, identify trends, assess complaint resolution rates, and monitor customer satisfaction. This project enables quick insights into complaint categories, priority levels, and product-specific issues to aid in service improvement and operational efficiency.
 
 3. Tech Stack
