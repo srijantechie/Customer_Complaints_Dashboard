@@ -8,10 +8,12 @@ An interactive, data-driven dashboard designed to track customer complaints, ide
 
 3. Tech Stack
 --Power BI for data visualization and dashboard development
+
 --Microsoft Excel for data preparation and transformation
+
 --Data Analytics & Problem Solving techniques
 
-4. Data Source
+5. Data Source
 Simulated customer complaint data representing various types, priorities, resolution status, satisfaction ratings, and product associations over the years 2020 & 2021.
 
 5.Fetaures/Highlights
