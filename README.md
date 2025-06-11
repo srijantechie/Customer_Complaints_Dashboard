@@ -39,4 +39,5 @@ Simulated customer complaint data representing various types, priorities, resolu
 
 6.Screenshots / Demos 
 
-https://github.com/srijantechie/Customer_Complaints_Dashboard/blob/main/Complaint_dashboard.png
+![Dashboard Preview](https://github.com/srijantechie/Customer_Complaints_Dashboard/blob/main/Complaint_dashboard.png)
+
